@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e5e97"],{9703:function(e,t,c){"use strict";c.r(t);var n=c("7a23"),s={class:"text-center py-2"},r=Object(n["i"])("p",{class:"h2 text-center"},"您似乎來到錯誤的地方~",-1),a=Object(n["i"])("p",{class:"text-center"},"請確認路徑是否正確。",-1);function i(e,t){return Object(n["u"])(),Object(n["e"])("div",s,[r,a])}const p={};p.render=i;t["default"]=p}}]);
+//# sourceMappingURL=chunk-2d0e5e97.67d3af9c.js.map
